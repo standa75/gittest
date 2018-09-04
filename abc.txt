@@ -1,2 +1,2 @@
 hi git
-This is new line.
+This is new dog.
